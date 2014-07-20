@@ -3,6 +3,7 @@ ruby '2.0.0'
 
 # Rake
 gem 'rake'
+gem 'debugger'
 
 # Rack
 gem 'rack-contrib'
